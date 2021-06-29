@@ -38,7 +38,7 @@ bashrc1 = '''
 clear
 echo
 echo "
-   < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
+   < ━━━━━━━━━ [★] D A R K [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
     echo "  We Are AnonyMouse" |lolcat
 '''
@@ -47,7 +47,7 @@ bashrc2 = '''
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]BDh@Ckers [★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★]D1ARK-VA4U3 [★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
